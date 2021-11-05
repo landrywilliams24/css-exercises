@@ -6,3 +6,14 @@
 .cool {
     font-size: 24px;
 }
+
+#Two {
+    color: hsla(240, 85%, 47%, 0.87);
+    font-size: 36px;
+}
+
+#Four{
+    background-color: hsl(96, 27%, 52%);
+    font-weight: bold;
+    font-size: 24px;
+}
