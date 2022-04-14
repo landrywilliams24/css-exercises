@@ -18,18 +18,18 @@
   font-weight: bold;
 } 
 
-#cancel-button {
+.button {
   background-color: #ffc0cb;
   color: black;
   font-size: 20px;
 }
 
-div.text .child {
+.text .child {
   color: red;
   font-size: 14px;
 }
 
-div.text{
+div.text {
   color: green;
   font-size: 28px;
 }
