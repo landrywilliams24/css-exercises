@@ -1,19 +1,19 @@
-.class {
-    background-color: rgb(255, 182, 193);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.odd{
+    background-color: #f08080;
+    font-family: Verdana, sans-serif;
 }
 
-.cool {
-    font-size: 24px;
-}
-
-#Two {
-    color: hsla(240, 85%, 47%, 0.87);
+#ID-1{
+    color: #0000ff;
     font-size: 36px;
 }
 
-#Four{
-    background-color: hsl(96, 27%, 52%);
-    font-weight: bold;
+.class-3{
     font-size: 24px;
+}
+
+#ID-2{
+    background-color: rgb(0,255,0);
+    font-size: 24px;
+    font-weight: bold;
 }
